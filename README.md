@@ -14,7 +14,8 @@ This web app has been developed using the popular Django framework and Bootstrap
 
 ### Quick Start
 To get this project up and running locally on your computer follow the following steps.
-1. Set up a python virtual environment ```
+1. Set up a python virtual environment 
+```
 python -m venv <YOUR-VENV-NAME>
 Then, "source <YOUR-VENV-NAME>/bin/activate" - Linux OS
 or, "cd <YOUR-VENV-NAME>/Scripts/bin/activate.bat" - Windows OS
